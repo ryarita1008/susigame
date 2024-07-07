@@ -1,3 +1,7 @@
 # Git学習メモ
 ##　Gitコマンド
-gut a
+
+- ローカルリポジトリを作る
+    - git init
+- ファイルの状態を確認
+    - git status
